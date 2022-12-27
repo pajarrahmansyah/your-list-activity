@@ -8,4 +8,4 @@ From your local:
 3. That's it
 
 From my github page:
-1. Just go to the demo page https://pajardevr.github.io/your-list-activity
+1. Just go to the demo page https://pajarrahmansyah.github.io/your-list-activity
